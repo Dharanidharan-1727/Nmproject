@@ -1,0 +1,46 @@
+BANQUET CRM: SMART MANAGEMENT SYSTEM FOR EVENT AND HALL BOOKINGS
+Project Overview
+Banquet CRM is a smart customer relationship management system designed to simplify and automate the management of banquet hall bookings and event services.
+This system helps manage the complete lifecycle of event planning, including customer inquiries, booking management, service tracking, billing, and feedback. It allows banquet hall administrators to efficiently handle customer data, track bookings, and improve service quality using data analytics.
+The main goal of this project is to enhance customer experience, streamline operations, and ensure efficient management of banquet hall services. The platform focuses on automation, customer satisfaction, and organized event handling.
+Features
+Customer Management
+This feature stores and manages customer details such as name, contact information, event type, and preferences. It helps maintain strong customer relationships and track repeat clients.
+Booking Management
+This feature allows users to book banquet halls for different events such as weddings, parties, and corporate meetings. It tracks booking dates, hall availability, and event schedules.
+Service Management
+The system manages additional services such as catering, decoration, lighting, and music. It helps track service requests and ensures proper arrangement for each event.
+Event Tracking System
+This feature tracks the entire event process from booking to completion. It ensures smooth coordination and proper execution of events.
+Billing System
+The billing system generates invoices for bookings and services, manages payments, and records all financial transactions.
+Dashboard
+The dashboard provides visual reports and analytics such as number of bookings, revenue generated, and customer trends. It helps administrators make better decisions.
+Technologies Used
+Salesforce CRM
+Salesforce CRM is used to manage customer data, booking details, and services. It helps in organizing and automating business processes.
+Flow Builder
+Flow Builder is used to automate workflows such as booking confirmation, payment reminders, and service notifications.
+Apex Trigger
+Apex triggers automate actions like updating booking status, sending alerts, and handling event-based processes.
+Modules
+Admin Module
+The admin controls the entire system, monitors bookings, manages users, and views reports.
+Customer Module
+This module handles customer information, inquiries, and communication.
+Booking Module
+Manages hall reservations, schedules, and event planning details.
+Service Management Module
+Handles additional services like catering, decoration, and event arrangements.
+Payment Module
+Manages billing, payments, and transaction records.
+Analytics Module
+Generates reports and dashboards for business insights and performance tracking.
+Documentation
+All system design, workflows, data models, and implementation steps are documented clearly for easy understanding and future improvements.
+Team Members
+Dharnidharan V
+(The entire project including system design, development, and documentation was completed individually.)
+Outcome
+The Banquet CRM system successfully provides a smart solution for managing banquet hall operations. It improves booking efficiency, enhances customer experience, and ensures smooth event management.
+This project helps businesses reduce manual work, avoid scheduling conflicts, and deliver better services, ultimately leading to increased customer satisfaction and business growth
